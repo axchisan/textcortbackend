@@ -3,3 +3,8 @@ venv/
 ENV/
 .env/
 .DS_Store
+# Secretos y entorno local
+.env
+venv/
+__pycache__/
+*.pyc
